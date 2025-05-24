@@ -1,4 +1,4 @@
 # project-demo
 This is my first Git Repositary
 <br>
-Author -  Myfoos
+Author -  Myfoos(Namma college)
